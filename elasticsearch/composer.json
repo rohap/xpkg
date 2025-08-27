@@ -1,0 +1,35 @@
+{
+  "name": "xpkg/elasticsearch",
+  "autoload": {
+    "psr-4": {
+      "Xpkg\\Elasticsearch\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Roey Haim",
+      "email": "roeyhaim@gmail.com"
+    }
+  ],
+  "require": {
+    "xpkg/arrays": "*",
+    "xpkg/http": "*"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://gitlab-srvc.rakia-platform.ai/xpkg/arrays.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://gitlab-srvc.rakia-platform.ai/xpkg/http.git"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Xpkg\\Elasticsearch\\ServiceProvider"
+      ]
+    }
+  }
+}

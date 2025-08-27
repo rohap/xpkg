@@ -1,0 +1,15 @@
+{
+  "name": "xpkg/arrays",
+  "autoload": {
+    "psr-4": {
+      "Xpkg\\Arrays\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Roey Haim",
+      "email": "roeyhaim@gmail.com"
+    }
+  ],
+  "require": {}
+}

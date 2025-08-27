@@ -1,0 +1,23 @@
+{
+  "name": "xpkg/geo",
+  "autoload": {
+    "psr-4": {
+      "Xpkg\\Geo\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Roey Haim",
+      "email": "roeyhaim@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://gitlab-srvc.rakia-platform.ai/xpkg/arrays.git"
+    }
+  ],
+  "require": {
+    "xpkg/arrays": "*"
+  }
+}

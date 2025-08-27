@@ -1,0 +1,15 @@
+{
+  "name": "xpkg/http",
+  "autoload": {
+    "psr-4": {
+      "Xpkg\\Http\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Roey Haim",
+      "email": "roeyhaim@gmail.com"
+    }
+  ],
+  "require": {}
+}

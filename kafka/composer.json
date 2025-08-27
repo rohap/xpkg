@@ -1,0 +1,31 @@
+{
+  "authors": [
+    {
+      "name": "Roey Haim",
+      "email": "roeyhaim@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Xpkg\\Kafka\\": "src/"
+    }
+  },
+  "name": "xpkg/kafka",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://gitlab-srvc.rakia-platform.ai/xpkg/http.git"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "xpkg/http": "*"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Xpkg\\Kafka\\ServiceProvider"
+      ]
+    }
+  }
+}

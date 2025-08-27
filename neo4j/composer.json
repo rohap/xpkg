@@ -1,0 +1,35 @@
+{
+  "name": "xpkg/neo4j",
+  "autoload": {
+    "psr-4": {
+      "Xpkg\\Neo4j\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Roey Haim",
+      "email": "roeyhaim@gmail.com"
+    }
+  ],
+  "require": {
+    "xpkg/arrays": "*",
+    "xpkg/http": "*"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://gitlab-srvc.rakia-platform.ai/xpkg/arrays.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://gitlab-srvc.rakia-platform.ai/xpkg/http.git"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Xpkg\\Neo4j\\ServiceProvider"
+      ]
+    }
+  }
+}
