@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0023"
+    },
+    {
+        "id": 2,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0002"
+    },
+    {
+        "id": 3,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0003"
+    },
+    {
+        "id": 4,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0004"
+    },
+    {
+        "id": 5,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0005"
+    },
+    {
+        "id": 6,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0006"
+    },
+    {
+        "id": 7,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0007"
+    },
+    {
+        "id": 8,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0008"
+    },
+    {
+        "id": 9,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0009"
+    },
+    {
+        "id": 10,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0010"
+    },
+    {
+        "id": 11,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0011"
+    },
+    {
+        "id": 12,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0012"
+    },
+    {
+        "id": 13,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0013"
+    },
+    {
+        "id": 14,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0014"
+    },
+    {
+        "id": 15,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0015"
+    },
+    {
+        "id": 16,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0016"
+    },
+    {
+        "id": 17,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0017"
+    },
+    {
+        "id": 18,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0018"
+    },
+    {
+        "id": 19,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0019"
+    },
+    {
+        "id": 20,
+        "type": "car",
+        "occupied_ticket_id": "TCK-0020"
+    },
+    {
+        "id": 21,
+        "type": "bike",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 22,
+        "type": "bike",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 23,
+        "type": "bike",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 24,
+        "type": "bike",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 25,
+        "type": "bike",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 26,
+        "type": "bike",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 27,
+        "type": "bike",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 28,
+        "type": "bike",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 29,
+        "type": "bike",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 30,
+        "type": "bike",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 31,
+        "type": "truck",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 32,
+        "type": "truck",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 33,
+        "type": "truck",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 34,
+        "type": "truck",
+        "occupied_ticket_id": null
+    },
+    {
+        "id": 35,
+        "type": "truck",
+        "occupied_ticket_id": null
+    }
+]

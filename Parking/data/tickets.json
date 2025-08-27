@@ -1,0 +1,209 @@
+[
+    {
+        "id": "TCK-0001",
+        "plate": "ABC-333",
+        "type": "car",
+        "spot_id": 1,
+        "entry_ts": 1756135348,
+        "exit_ts": 1756135436,
+        "fee": 2.5
+    },
+    {
+        "id": "TCK-0002",
+        "plate": "CCCSSS",
+        "type": "car",
+        "spot_id": 2,
+        "entry_ts": 1756135358,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0003",
+        "plate": "SADA",
+        "type": "car",
+        "spot_id": 3,
+        "entry_ts": 1756135360,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0004",
+        "plate": "DSFDFS",
+        "type": "car",
+        "spot_id": 4,
+        "entry_ts": 1756135361,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0005",
+        "plate": "QWEQWE",
+        "type": "car",
+        "spot_id": 5,
+        "entry_ts": 1756135363,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0006",
+        "plate": "ZXCZXC",
+        "type": "car",
+        "spot_id": 6,
+        "entry_ts": 1756135366,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0007",
+        "plate": "DFSFD",
+        "type": "car",
+        "spot_id": 7,
+        "entry_ts": 1756135368,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0008",
+        "plate": "WERWRQWQ",
+        "type": "car",
+        "spot_id": 8,
+        "entry_ts": 1756135370,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0009",
+        "plate": "2312133",
+        "type": "car",
+        "spot_id": 9,
+        "entry_ts": 1756135373,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0010",
+        "plate": "31231244",
+        "type": "car",
+        "spot_id": 10,
+        "entry_ts": 1756135375,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0011",
+        "plate": "432432",
+        "type": "car",
+        "spot_id": 11,
+        "entry_ts": 1756135377,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0012",
+        "plate": "EWRWRW",
+        "type": "car",
+        "spot_id": 12,
+        "entry_ts": 1756135379,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0013",
+        "plate": "CCCSSS",
+        "type": "car",
+        "spot_id": 13,
+        "entry_ts": 1756135385,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0014",
+        "plate": "AAA",
+        "type": "car",
+        "spot_id": 14,
+        "entry_ts": 1756135391,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0015",
+        "plate": "AAA",
+        "type": "car",
+        "spot_id": 15,
+        "entry_ts": 1756135393,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0016",
+        "plate": "AAA",
+        "type": "car",
+        "spot_id": 16,
+        "entry_ts": 1756135394,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0017",
+        "plate": "AAA",
+        "type": "car",
+        "spot_id": 17,
+        "entry_ts": 1756135396,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0018",
+        "plate": "AAA",
+        "type": "car",
+        "spot_id": 18,
+        "entry_ts": 1756135397,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0019",
+        "plate": "AAA",
+        "type": "car",
+        "spot_id": 19,
+        "entry_ts": 1756135399,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0020",
+        "plate": "AAA",
+        "type": "car",
+        "spot_id": 20,
+        "entry_ts": 1756135400,
+        "exit_ts": null,
+        "fee": null
+    },
+    {
+        "id": "TCK-0021",
+        "plate": "AA",
+        "type": "bike",
+        "spot_id": 21,
+        "entry_ts": 1756135418,
+        "exit_ts": 1756135461,
+        "fee": 1
+    },
+    {
+        "id": "TCK-0022",
+        "plate": "AAA",
+        "type": "car",
+        "spot_id": 1,
+        "entry_ts": 1756135441,
+        "exit_ts": 1756135456,
+        "fee": 2.5
+    },
+    {
+        "id": "TCK-0023",
+        "plate": "AAAA",
+        "type": "car",
+        "spot_id": 1,
+        "entry_ts": 1756135465,
+        "exit_ts": null,
+        "fee": null
+    }
+]
